@@ -1,7 +1,7 @@
 The Matlab code for Depth Enhanced Saliency Detection
 --------------------------------------------------------------------------------
 
-This code is employed in [1], and the framework is inspired from [2].
+This code is employed in [1], and this implementation is built upon the code provided by [2].
 Please cite the following publications if you used this code:
 
 [1] Yupeng Cheng, Huazhu Fu, Xingxing Wei, Jiangjian Xiao, Xiaochun Cao, 
