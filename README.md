@@ -9,7 +9,7 @@ Please cite the following publications if you used this code:
 in ACM International Conference on Internet Multimedia Computing and Service (ICIMCS), 2014, pp. 23-28.
 
 [2] Huazhu Fu, Xiaochun Cao, Zhuowen Tu, 
-"Object-based Multiple Foreground Video Co-segmentation via Multi-state Selection Graph", 
+"Cluster-based Co-saliency Detection", 
 IEEE Transactions on Image Processing (TIP), 2013, 22(10), pp. 3766–3778.
 
 --------------------------------------------------------------------------------
